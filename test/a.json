@@ -1,0 +1,80 @@
+[
+    {
+        "numerator": [
+            597811856,
+            1
+        ],
+        "denominator": [
+            1
+        ],
+        "currency": {
+            "chainId": 1,
+            "decimals": 6,
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "isNative": false,
+            "isToken": true,
+            "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        },
+        "decimalScale": [
+            1000000
+        ]
+    },
+    {
+        "liquidityToken": {
+            "chainId": 1,
+            "decimals": 18,
+            "symbol": "UNI-V2",
+            "name": "Uniswap V2",
+            "isNative": false,
+            "isToken": true,
+            "address": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc"
+        },
+        "tokenAmounts": [
+            {
+                "numerator": [
+                    873907911,
+                    26230
+                ],
+                "denominator": [
+                    1
+                ],
+                "currency": {
+                    "chainId": 1,
+                    "decimals": 6,
+                    "symbol": "USDC",
+                    "name": "USD Coin",
+                    "isNative": false,
+                    "isToken": true,
+                    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+                },
+                "decimalScale": [
+                    1000000
+                ]
+            },
+            {
+                "numerator": [
+                    407992933,
+                    836508709,
+                    14571
+                ],
+                "denominator": [
+                    1
+                ],
+                "currency": {
+                    "chainId": 1,
+                    "decimals": 18,
+                    "symbol": "WETH",
+                    "name": "Wrapped Ether",
+                    "isNative": false,
+                    "isToken": true,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+                },
+                "decimalScale": [
+                    660865024,
+                    931322574
+                ]
+            }
+        ]
+    }
+]

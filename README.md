@@ -107,3 +107,9 @@ yarn symlink # must install git submodules
 forge install
 yarn test:forge
 ```
+
+Run hardhat + fork test
+```bash
+# yarn symlink # must install git submodules
+yarn test:hardhat test/uniswapTrades.test.ts
+```
